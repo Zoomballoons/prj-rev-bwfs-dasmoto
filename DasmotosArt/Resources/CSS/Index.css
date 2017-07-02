@@ -1,0 +1,28 @@
+.toptitle {
+  font-family: Helvetica;
+  font-size: 100px;
+  color: Khak;
+}
+.type1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+    color: white;
+}
+.type2 {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.bkgrdcolormediumspringgreen {
+  background-color: mediumspringgreen;
+}
+.bkgrdcolorlightcoral {
+    background-color: lightcoral;
+}
+.bkgrdcolorskyblue {
+    background-color: skyblue;
+}
+.textcenter {
+  text-align: center; 
+}

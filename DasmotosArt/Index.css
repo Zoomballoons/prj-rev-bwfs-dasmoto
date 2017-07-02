@@ -1,0 +1,30 @@
+.toptitle {
+  font-family: Helvetica;
+  font-size: 100px;
+  color: khaki;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  text-align: center;
+}
+.type1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+    color: white;
+}
+.type2 {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.bkgrdcolormediumspringgreen {
+  background-color: mediumspringgreen;
+}
+.bkgrdcolorlightcoral {
+    background-color: lightcoral;
+}
+.bkgrdcolorskyblue {
+    background-color: skyblue;
+}
+.textcenter {
+  text-align: center;
+}
